@@ -1,0 +1,126 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Service.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DayFrom" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">16:00:00</Value>
+    </Setting>
+    <Setting Name="DayTo" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">23:59:59</Value>
+    </Setting>
+    <Setting Name="NightFrom" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">00:00:00</Value>
+    </Setting>
+    <Setting Name="NightTo" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">06:00:00</Value>
+    </Setting>
+    <Setting Name="TaskGetPrih_Type" Type="System.String" Scope="User">
+      <Value Profile="(Default)">m</Value>
+    </Setting>
+    <Setting Name="TaskGetPrih_Value" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="TaskPrihAnswer_Type" Type="System.String" Scope="User">
+      <Value Profile="(Default)">m</Value>
+    </Setting>
+    <Setting Name="TaskPrihAnswer_Value" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="TaskGetOrder_Type" Type="System.String" Scope="User">
+      <Value Profile="(Default)">m</Value>
+    </Setting>
+    <Setting Name="TaskGetOrder_Value" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="TaskOstatki_Type" Type="System.String" Scope="User">
+      <Value Profile="(Default)">h</Value>
+    </Setting>
+    <Setting Name="TaskOstatki_Value" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="TaskAdresDelivery_Value" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="TaskOrderAnswer_Type" Type="System.String" Scope="User">
+      <Value Profile="(Default)">m</Value>
+    </Setting>
+    <Setting Name="TaskOrderAnswer_Value" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="TaskVzvr_Type" Type="System.String" Scope="User">
+      <Value Profile="(Default)">m</Value>
+    </Setting>
+    <Setting Name="TaskVzvr_Value" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="TaskVzvr_isActive" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TaskOrderAnswer_isActive" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TaskAdresDelivery_isActive" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TaskOstatki_isActive" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TaskGetOrder_isActive" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TaskGetPrih_isActive" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TaskPrihAnswer_isActive" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TaskAdresDelivery_Type" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dh</Value>
+    </Setting>
+    <Setting Name="TaskRez_isActive" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TaskRez_Type" Type="System.String" Scope="User">
+      <Value Profile="(Default)">m</Value>
+    </Setting>
+    <Setting Name="TaskRez_Value" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="TaskSnRez_isActive" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TaskSnRez_Type" Type="System.String" Scope="User">
+      <Value Profile="(Default)">m</Value>
+    </Setting>
+    <Setting Name="TaskSnRez_Value" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="TaskGetPrih_LastRun" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">01/01/2021 01:00:00</Value>
+    </Setting>
+    <Setting Name="TaskPrihAnswer_LastRun" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">01/01/2021 01:00:00</Value>
+    </Setting>
+    <Setting Name="TaskGetOrder_LastRun" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">01/01/2021 01:00:00</Value>
+    </Setting>
+    <Setting Name="TaskOrderAnswer_LastRun" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">01/01/2021 01:00:00</Value>
+    </Setting>
+    <Setting Name="TaskVzvr_LastRun" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">01/01/2021 01:00:00</Value>
+    </Setting>
+    <Setting Name="TaskOstatki_LastRun" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">01/01/2021 01:00:00</Value>
+    </Setting>
+    <Setting Name="TaskAdresDelivery_LastRun" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">01/01/2021 01:00:00</Value>
+    </Setting>
+    <Setting Name="TaskRez_LastRun" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">01/01/2021 01:00:00</Value>
+    </Setting>
+    <Setting Name="TaskSnRez_LastRun" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">01/01/2021 01:00:00</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

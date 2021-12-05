@@ -1,0 +1,105 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Cron.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ftp_host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp.xxx.xxx</Value>
+    </Setting>
+    <Setting Name="ftp_port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1777</Value>
+    </Setting>
+    <Setting Name="LocalPrihDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\CRON_PRIH</Value>
+    </Setting>
+    <Setting Name="LocalPrihAnswerDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\CRON_PRIH\ANSWER</Value>
+    </Setting>
+    <Setting Name="FtpPrihAnswerDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/MED/PRIH/</Value>
+    </Setting>
+    <Setting Name="FtpPrihArchivDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/KRON/PRIH/arhiv/</Value>
+    </Setting>
+    <Setting Name="FtpPrihDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/KRON/PRIH/</Value>
+    </Setting>
+    <Setting Name="LocalPriceDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\CRON_PRICE</Value>
+    </Setting>
+    <Setting Name="FtpPriceDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/MED/PRICE/</Value>
+    </Setting>
+    <Setting Name="LocalOrderDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\CRON_ORDER</Value>
+    </Setting>
+    <Setting Name="LocalOrderAnswerDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\CRON_ORDER\ANSWER</Value>
+    </Setting>
+    <Setting Name="FtpOrderDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/KRON/ORDER/</Value>
+    </Setting>
+    <Setting Name="FtpOrderAnswerDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/MED/ORDER/</Value>
+    </Setting>
+    <Setting Name="FtpOrderArchivDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/KRON/ORDER/Arhiv/</Value>
+    </Setting>
+    <Setting Name="LocalAdresDeliveryDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\CRON_ADRESS</Value>
+    </Setting>
+    <Setting Name="FtpAdressDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/MED/ADRES/</Value>
+    </Setting>
+    <Setting Name="LocalRezDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\CRON_REZERV</Value>
+    </Setting>
+    <Setting Name="LocalRezAnswerDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\CRON_REZERV\ANSWER</Value>
+    </Setting>
+    <Setting Name="FtpRezDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/KRON/REZERV/</Value>
+    </Setting>
+    <Setting Name="FtpRezAnswerDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/MED/REZERV/</Value>
+    </Setting>
+    <Setting Name="FtpRezArchivDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/KRON/REZERV/Архив/</Value>
+    </Setting>
+    <Setting Name="FtpPrihAnswerMdDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/MED/KIZ_PRIH/</Value>
+    </Setting>
+    <Setting Name="MaskPrih" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pr</Value>
+    </Setting>
+    <Setting Name="MaskOrder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ord</Value>
+    </Setting>
+    <Setting Name="MaskRez" Type="System.String" Scope="User">
+      <Value Profile="(Default)">rez</Value>
+    </Setting>
+    <Setting Name="MaskSnRez" Type="System.String" Scope="User">
+      <Value Profile="(Default)">snrez</Value>
+    </Setting>
+    <Setting Name="FtpVzvrDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/MED/PZ_VZVR/</Value>
+    </Setting>
+    <Setting Name="LocalVzvrDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\CRON_PZ_VZVR</Value>
+    </Setting>
+    <Setting Name="FtpOrderAnswerMdDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/MED/KIZ_ORDER/</Value>
+    </Setting>
+    <Setting Name="FtpOrderAnswerOptDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/MED/KIZ_ORDER/</Value>
+    </Setting>
+    <Setting Name="ftp_usr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xxx</Value>
+    </Setting>
+    <Setting Name="ftp_psw" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xxx</Value>
+    </Setting>
+    <Setting Name="MailTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xxx@profitmed.net;zzz@profitmed.net</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
